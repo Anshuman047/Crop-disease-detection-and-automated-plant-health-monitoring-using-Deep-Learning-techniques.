@@ -12,11 +12,6 @@ This system presents an agricultural evolution using artificial intelligence by 
 - 🌦️ **Weather-Driven Irrigation** using OpenWeather API for optimal water requirement estimation
 - 📡 **IoT Integration** with Raspberry Pi and Arduino Nano for real-time monitoring and control
 
-**Performance Metrics:**
-- Disease Detection: 94.95% validation accuracy
-- Nutrient Deficiency Detection: 85.49% validation accuracy
-- Real-time processing on edge devices (Raspberry Pi 4B)
-
 The system empowers farmers with intuitive crop health monitoring and management capabilities, enabling early disease detection, precise nutrient management, and water conservation for sustainable agriculture practices.
 
 
